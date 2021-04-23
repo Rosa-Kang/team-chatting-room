@@ -86,6 +86,27 @@ npm install @ant-design/icon axios react-chat-engine
 
 ## Architecture
 
+paper-kit-react
+.
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+└── src
+├── Components
+│  ├── ChatFeed.jsx
+│  ├── MessageForm.jsx
+│  ├── MyMessage.jsx
+│  └── TheirMessage.jsx
+│ 
+├── App.js
+├── index.js
+│ 
+│ 
+│ 
+│ 
+│
+
 ### Structure
 
 <img width="1680" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/105948977-49e1a500-60af-11eb-8249-133fc1b50e0e.png">
@@ -110,6 +131,7 @@ npm install @ant-design/icon axios react-chat-engine
 - React router 학습
 - firebase auth, realtimeDataBase 사용법 학습
 - cloudinary
+- **Mistake** when creating input box, if onChange function is not properly stated insid the input Element, it doesnt receive any input letters!
 
 ---
 
@@ -138,4 +160,5 @@ Reference Link : </br>
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
 # team-chatting-room

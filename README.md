@@ -24,7 +24,7 @@
 ## Purpose of the project
 
 - React Hooks Practice
-- Authentication Practice
+- Authentication & Login Practice Practice
 -
 
 <!--USE TECH-->
@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactRouter-critical?style=flat-square&logo=React Router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactHooks-critical?style=flat-square&logo=React Router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactRouter-32b7f0?&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactHooks-e1a9f5?&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudinary-orange?style=flat-square&logoColor=white"/>
 

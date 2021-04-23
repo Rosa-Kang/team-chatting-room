@@ -25,7 +25,7 @@
 
 - React Hooks Practice
 - Authentication & Login Practice Practice
--
+- Creating Realtime Chatting App using Chategine.io
 
 <!--USE TECH-->
 
@@ -79,10 +79,6 @@ npm install @ant-design/icon axios react-chat-engine
 <img width="46%" alt="gif" src="https://user-images.githubusercontent.com/59603575/105945809-5400a500-60a9-11eb-96f3-7c2363c35aad.gif">
 </div>
 
-- font color, background color, name 등등 여러 input을 입력받아 firebase realtime에 올리는 파트.
-- edit (왼쪽 컨테이너): 변경되는 사항이 있을때마다 firebase에 데이터를 씀
-- view (오른쪽 컨테이너): firebase.read.on을 이용해서 firebase에서 변경되는 사항이 있을때마다 업데이트
-
 ---
 
 ## Architecture
@@ -96,17 +92,13 @@ paper-kit-react
 └── src
 ├── Components
 │  ├── ChatFeed.jsx
+│  ├── LoginForm.jsx
 │  ├── MessageForm.jsx
 │  ├── MyMessage.jsx
 │  └── TheirMessage.jsx
 │ 
 ├── App.js
-├── index.js
-│ 
-│ 
-│ 
-│ 
-│
+└── index.js
 
 ### Structure
 
@@ -118,9 +110,8 @@ paper-kit-react
 
 <img width="1680" style="margin:0; padding:0;" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/105949828-b4dfab80-60b0-11eb-971d-d4644c5701db.png">
 
-1. fire base auth
-2. auth 되었을때만 eidt 가능
-3. firebase.read.on을 이용해서 firebase데이터가 변경될때마다 app의 state.data 업데이트
+1. LoginForm receives and execute the event Handling Function based user information from Landing Page.
+2. Once the Use loggen-in, the chatting room is visible and also the user can create a new chatting room to invite people
 
 ---
 
@@ -128,38 +119,10 @@ paper-kit-react
 
 ## Lessons
 
-- useEffect 학습
-- React router 학습
-- firebase auth, realtimeDataBase 사용법 학습
-- cloudinary
+- useState
+- Authentification using LocalStorage
 - **Mistake** when creating input box, if onChange function is not properly stated insid the input Element, it doesnt receive any input letters!
 
 ---
-
-## Reference
-
-Reference Link : </br>
-[firebase](https://firebase.google.com/docs/database/web/read-and-write) </br>
-[cloudinary doc](https://cloudinary.com/documentation/react_image_and_video_upload) </br>
-[create react](https://create-react-app.dev)</br>
-[dream coding ellie](https://academy.dream-coding.com)</br>
-[typing effect](https://www.youtube.com/watch?v=T4VE_6v9hFs&t=450s)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 
 # team-chatting-room

@@ -83,7 +83,8 @@ npm install @ant-design/icon axios react-chat-engine
 
 ## Architecture
 
-paper-kit-react
+```
+team-build-messanger
 .
 ├── public
 │   ├── favicon.ico

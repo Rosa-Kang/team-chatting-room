@@ -61,13 +61,13 @@ npm install @ant-design/icon axios react-chat-engine
 ---
 
 <div>
-<img width="45%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940260-b32a4780-a455-11eb-9d45-cc0897ba6539.png">
-<img width="45%" alt="img" src="https://github.com/Rosa-Kang/team-chatting-room/files/6368687/1.pptx">
+<img width="45%" height="450px" alt="img" src="https://user-images.githubusercontent.com/49248131/115940260-b32a4780-a455-11eb-9d45-cc0897ba6539.png">
+<img width="45%" height="450px" alt="img" src="https://user-images.githubusercontent.com/49248131/115940897-0d2c0c80-a458-11eb-98bd-ec6de225e785.png">
 </div>
 
 <div>
-<img width="46%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940317-e967c700-a455-11eb-934b-8ab44769740f.png">
-<img width="45%" alt="gif" src="https://user-images.githubusercontent.com/49248131/115940711-6e9fab80-a457-11eb-944e-65d5314bf22e.gif">
+<img width="46%" height="450px" alt="img" src="https://user-images.githubusercontent.com/49248131/115940317-e967c700-a455-11eb-934b-8ab44769740f.png">
+<img width="45%" height="450px" alt="gif" src="https://user-images.githubusercontent.com/49248131/115940711-6e9fab80-a457-11eb-944e-65d5314bf22e.gif">
 </div>
 
 ---

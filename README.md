@@ -100,6 +100,7 @@ team-build-messanger
 │ 
 ├── App.js
 └── index.js
+```
 
 ### Structure
 

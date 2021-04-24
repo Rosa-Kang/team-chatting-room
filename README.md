@@ -45,8 +45,9 @@
 
 ### Dependancy
 
+```
 npm install @ant-design/icon axios react-chat-engine
-
+```
 ---
 
 <!-- ABOUT THE PROJECT -->
@@ -60,27 +61,16 @@ npm install @ant-design/icon axios react-chat-engine
 ---
 
 <div>
-<img width="45%" alt="img" src="https://user-images.githubusercontent.com/59603575/105945507-c02ed900-60a8-11eb-96ee-6bb7a82a391b.png">
-
-<img width="45%" alt="img" src="https://user-images.githubusercontent.com/59603575/105945524-c755e700-60a8-11eb-9853-fe0d2ab439e8.png">
+<img width="45%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940260-b32a4780-a455-11eb-9d45-cc0897ba6539.png">
+<img width="45%" alt="img" src="https://github.com/Rosa-Kang/team-chatting-room/files/6368641/1.pptx">  
 </div>
 
 <div>
-<img width="46%" alt="img" src="https://user-images.githubusercontent.com/59603575/105945519-c58c2380-60a8-11eb-871d-4dfc189d4198.png">
-<img width="45%" alt="gif" src="https://user-images.githubusercontent.com/59603575/105945799-4e0ac400-60a9-11eb-987c-ef00cf142905.gif">
-</div>
-
-### Functionality Pages
-
----
-
-<div>
-<img width="45%" alt="스크린샷 2021-01-16 오후 4 09 47" src="https://user-images.githubusercontent.com/59603575/105945952-9f1ab800-60a9-11eb-80e2-4324282ea38b.png">
-<img width="46%" alt="gif" src="https://user-images.githubusercontent.com/59603575/105945809-5400a500-60a9-11eb-96f3-7c2363c35aad.gif">
+<img width="46%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940317-e967c700-a455-11eb-934b-8ab44769740f.png">
+<img width="45%" alt="gif" src="https://user-images.githubusercontent.com/49248131/115940584-f933db00-a456-11eb-9235-c520c41d6127.mp4">
 </div>
 
 ---
-
 ## Architecture
 
 ```

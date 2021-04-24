@@ -62,12 +62,12 @@ npm install @ant-design/icon axios react-chat-engine
 
 <div>
 <img width="45%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940260-b32a4780-a455-11eb-9d45-cc0897ba6539.png">
-<img width="45%" alt="img" src="https://github.com/Rosa-Kang/team-chatting-room/files/6368641/1.pptx">  
+[1.pptx](https://github.com/Rosa-Kang/team-chatting-room/files/6368687/1.pptx)
 </div>
 
 <div>
 <img width="46%" alt="img" src="https://user-images.githubusercontent.com/49248131/115940317-e967c700-a455-11eb-934b-8ab44769740f.png">
-<img width="45%" alt="gif" src="https://user-images.githubusercontent.com/49248131/115940584-f933db00-a456-11eb-9235-c520c41d6127.mp4">
+![messanger-demo](https://user-images.githubusercontent.com/49248131/115940711-6e9fab80-a457-11eb-944e-65d5314bf22e.gif)
 </div>
 
 ---

@@ -92,16 +92,6 @@ team-build-messanger
 └── index.js
 ```
 
-### Structure
-
-<img width="1680" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/105948977-49e1a500-60af-11eb-8249-133fc1b50e0e.png">
-
----
-
-### Features
-
-<img width="1680" style="margin:0; padding:0;" alt="스크린샷 2021-01-16 오후 4 10 08" src="https://user-images.githubusercontent.com/59603575/105949828-b4dfab80-60b0-11eb-971d-d4644c5701db.png">
-
 1. LoginForm receives and execute the event Handling Function based user information from Landing Page.
 2. Once the Use loggen-in, the chatting room is visible and also the user can create a new chatting room to invite people
 
